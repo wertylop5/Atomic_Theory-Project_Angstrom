@@ -4,7 +4,7 @@
 
 ### Project Overview [Video](https://youtu.be/SG_ar4D-uIM)
 
-### Deployment (online as of 06.13.18): [206.189.235.133](http://206.189.235.133/)
+View it [here](http://angstrom.stuycs.org/)
 
 ### How to run (locally):
 1. Clone the repo: `git clone https://github.com/kkhan01/Atomic_Theory-Project_Angstrom.git angstrom`
